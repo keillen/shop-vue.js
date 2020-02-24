@@ -1,4 +1,4 @@
-用vue.js实现的网上商城
+vue.js瀹炵幇缃戜笂鍟嗗煄
 # shop
 
 > A Vue.js project
